@@ -1,0 +1,9 @@
+{
+    "name": "Jakub Gezela",
+    "profession": "React Developer",
+    "description": "Casual player, designer and JavaScript enjoyer.",
+    "technologies": ["HTML", "CSS", "Sass", "Bootstrap", "JavaScript", "React", "WordPress"],
+    "socials": {
+        "github": "https://github.com/plGazela"
+    }
+}
